@@ -34,6 +34,3 @@ The portfolio is optimized for:
 
 This portfolio website was created to showcase my web development skills and projects while building a professional online presence.
 
-## 🚀 Live Demo
-
-You can add your live portfolio link here after deploying it using GitHub Pages.
